@@ -3,12 +3,6 @@
 #EOF (end-of-file) token is used to indicate that 
 #there is no more input left for lexical analysis
 
-from re import S
-from tokenize import String
-from unittest import result
-from xmlrpc.client import INTERNAL_ERROR
-
-
 INTEGER, PLUS, EOF = 'INTEGER', 'PLUS', 'EOF'
 
 
