@@ -126,3 +126,9 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+ ###
+ ### see https://gist.github.com/Duality4Y/44df89c1470e96d79d8d0e13302e2096
+ ### it handles whitespace (multple whitespace)
+ ### it handles operators - and +
+ ### it handles multiple numbers.
